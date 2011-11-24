@@ -1,0 +1,21 @@
+/*
+ Project: RTS Ground
+ Created By: Darknet
+ SITE:https://sourceforge.net/projects/animecodeworld/
+ SRC:https://animecodeworld.svn.sourceforge.net/svnroot/animecodeworld/trunk/projects/unity3d/RTSGroundUnit/
+ license: Creative Commons Attribution 3.0 Unported License.
+ As Long Credit work Darknet and others.
+*/
+
+Information: Note I am still working on other areas to make it stable.
+The over lapping menus is still there.
+Need to work on the script manage and as well in global variable that need to be added in a bit.
+
+
+Camera Controls:
+A,S,D,W  = move around
+Mouse wheel = zoom in/out map
+
+Select units:
+Mouse Click and Move Hold
+
